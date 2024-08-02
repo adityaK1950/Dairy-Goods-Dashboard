@@ -11,7 +11,7 @@ This project presents a comprehensive Dairy Goods Dashboard created using Power 
 ![Dairy Goods Dashboard - Overview](https://github.com/user-attachments/assets/d5a62f13-5973-41d5-bc61-c3f5ddfdfbca)
 
 ### 📊 Stock Analysis
-![Dairy Goods Dashboard - Stock Analysis](https://github.com/user-attachments/assets/stock_analysis.png)
+![Dairy Goods Dashboard - Stock Analysis](https://github.com/user-attachments/assets/fec112a3-8e53-4f94-bd39-0ee17b73ce96)
 
 ### 📊 Sales Analysis
 ![Dairy Goods Dashboard - Sales Analysis](https://github.com/user-attachments/assets/sales_analysis.png)
